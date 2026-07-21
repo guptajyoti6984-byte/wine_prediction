@@ -1,0 +1,4 @@
+[core]
+    remote = wineremote200
+['remote "wineremote200"']
+    url = s3://mlops-demo-jyoti-dvc-bucket
